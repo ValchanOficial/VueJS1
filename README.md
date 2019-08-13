@@ -8,6 +8,9 @@
 # install dependencies
 npm install
 
+# API serve at localhost:3000
+npm start
+
 # serve with hot reload at localhost:8080
 npm run dev
 
